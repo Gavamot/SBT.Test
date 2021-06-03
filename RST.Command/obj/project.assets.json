@@ -243,11 +243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\SBT.Test\\RST.Command\\RST.Command.csproj",
+      "projectUniqueName": "C:\\dev\\SBT.Test\\RST.Command\\RST.Command.csproj",
       "projectName": "RST.Command",
-      "projectPath": "C:\\Users\\user\\Desktop\\SBT.Test\\RST.Command\\RST.Command.csproj",
+      "projectPath": "C:\\dev\\SBT.Test\\RST.Command\\RST.Command.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\SBT.Test\\RST.Command\\obj\\",
+      "outputPath": "C:\\dev\\SBT.Test\\RST.Command\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

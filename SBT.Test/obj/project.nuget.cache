@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NlCvZM5E19pweKvG8kG2pociV2lFSo9aJ4Q9kAhT6j0XGcZMuhtuNjzYySkNnIUHhbdoYiD5kQUutaHj43bT+g==",
+  "dgSpecHash": "qQ7wOyW5KLrr2nkrh3BCz7J7RkpxMtUwY8OXtQoyVa9yJ22PshRVH4qt6Gz8bsktI0vQR+X2yqR8Ex534TTxkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\SBT.Test\\SBT.Test\\SBT.Test.csproj",
+  "projectFilePath": "C:\\dev\\SBT.Test\\SBT.Test\\SBT.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",

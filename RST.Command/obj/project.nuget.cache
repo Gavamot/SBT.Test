@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1sAoj2cmvtn0NQMmGdd8Fk16M9GvlwfMtVNCiBwLVabfAWCC+DSr/gn/g495AUHm/KdC1+QYlhG6lpK2apQrmg==",
+  "dgSpecHash": "xDY2pzaqxmyNbbKNyGTT2WxFMQQznbcPS+gjDj/feyvoojNVGEiVu9vCNzDRHNPNdSdC2JNMVhcb4gc4fTFSVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\SBT.Test\\RST.Command\\RST.Command.csproj",
+  "projectFilePath": "C:\\dev\\SBT.Test\\RST.Command\\RST.Command.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
