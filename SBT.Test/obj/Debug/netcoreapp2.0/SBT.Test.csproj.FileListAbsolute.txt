@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SBT.Test\SBT.Test\bin\Debug\netcoreapp2.0\SBT.Test.deps.json
+C:\Users\user\Desktop\SBT.Test\SBT.Test\bin\Debug\netcoreapp2.0\SBT.Test.runtimeconfig.json
+C:\Users\user\Desktop\SBT.Test\SBT.Test\bin\Debug\netcoreapp2.0\SBT.Test.runtimeconfig.dev.json
+C:\Users\user\Desktop\SBT.Test\SBT.Test\bin\Debug\netcoreapp2.0\SBT.Test.dll
+C:\Users\user\Desktop\SBT.Test\SBT.Test\bin\Debug\netcoreapp2.0\SBT.Test.pdb
+C:\Users\user\Desktop\SBT.Test\SBT.Test\bin\Debug\netcoreapp2.0\RST.Command.dll
+C:\Users\user\Desktop\SBT.Test\SBT.Test\bin\Debug\netcoreapp2.0\RST.Command.pdb
+C:\Users\user\Desktop\SBT.Test\SBT.Test\obj\Debug\netcoreapp2.0\SBT.Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SBT.Test\SBT.Test\obj\Debug\netcoreapp2.0\SBT.Test.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SBT.Test\SBT.Test\obj\Debug\netcoreapp2.0\SBT.Test.AssemblyInfo.cs
+C:\Users\user\Desktop\SBT.Test\SBT.Test\obj\Debug\netcoreapp2.0\SBT.Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SBT.Test\SBT.Test\obj\Debug\netcoreapp2.0\SBT.Test.csproj.CopyComplete
+C:\Users\user\Desktop\SBT.Test\SBT.Test\obj\Debug\netcoreapp2.0\SBT.Test.dll
+C:\Users\user\Desktop\SBT.Test\SBT.Test\obj\Debug\netcoreapp2.0\SBT.Test.pdb
+C:\Users\user\Desktop\SBT.Test\SBT.Test\obj\Debug\netcoreapp2.0\SBT.Test.genruntimeconfig.cache

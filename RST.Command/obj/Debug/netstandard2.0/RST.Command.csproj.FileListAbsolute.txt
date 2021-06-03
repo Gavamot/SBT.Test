@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\SBT.Test\RST.Command\bin\Debug\netstandard2.0\RST.Command.deps.json
+C:\Users\user\Desktop\SBT.Test\RST.Command\bin\Debug\netstandard2.0\RST.Command.dll
+C:\Users\user\Desktop\SBT.Test\RST.Command\obj\Debug\netstandard2.0\RST.Command.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SBT.Test\RST.Command\obj\Debug\netstandard2.0\RST.Command.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SBT.Test\RST.Command\obj\Debug\netstandard2.0\RST.Command.AssemblyInfo.cs
+C:\Users\user\Desktop\SBT.Test\RST.Command\bin\Debug\netstandard2.0\RST.Command.pdb
+C:\Users\user\Desktop\SBT.Test\RST.Command\obj\Debug\netstandard2.0\RST.Command.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SBT.Test\RST.Command\obj\Debug\netstandard2.0\RST.Command.dll
+C:\Users\user\Desktop\SBT.Test\RST.Command\obj\Debug\netstandard2.0\RST.Command.pdb
